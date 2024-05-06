@@ -12,12 +12,8 @@ Here is the code for the paper Memformer.
 - **ETTh2:** https://github.com/zhouhaoyi/ETDataset
 - **Traffic:** https://zenodo.org/record/4656132#.Y3ttxezMIeY
 
-## Runing
-	sh ./scripts/Memformer/etth1.sh
-  sh ./scripts/Memformer/etth2.sh
-  sh ./scripts/Memformer/ettm1.sh
-  sh ./scripts/Memformer/ettm2.sh
-  sh ./scripts/Memformer/weather.sh
+## Running Example on ETh2 Dataset
+	sh ./scripts/Memformer/etth2.sh
 
 ## Results
-  See result.txt
+-  See result.txt
