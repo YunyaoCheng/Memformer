@@ -19,8 +19,18 @@ Memformer is implemented on several public multivariate time series datasets.
   
 - **ETT:** ETT data comprising four datasets: ETTh1, ETTh2, ETTm1, and ETTm2, which record the oil temperature and other associated variables of electricity transformers. These datasets span two years, with ETTh1 and ETTh2 being sampled once per hour and ETTm1 and ETTm2 being sampled once every 15 minutes. You can download the data from the link: https://github.com/zhouhaoyi/ETDataset.
   
-## Running Example
-	sh ./scripts/Memformer/etth2.sh
+## Running the Code
 
-## Results
--  See result.txt
+1. Install requirements. ```pip install -r requirements.txt```
+
+2. Download data. You can download all the datasets from the above links. Create a separate folder ```./dataset``` and put all the .csv files in the directory.
+
+3. Training. Scripts are in the directory ```./scripts/Memformer```. For example, if you want to get the multivariate forecasting results for the ETTh2 dataset, just run the following command, and you can open ```./result.txt``` to see the results once the training is done:
+```
+sh ./scripts/Memformer/etth2.sh
+```
+
+You can adjust the hyperparameters based on your needs (e.g. different patch length, different look-back windows, and prediction lengths.) 
+
+## Contact
+-  If you have any questions or concerns, please contact us: yunyaoc@cs.aau.dk or submit an issue.
