@@ -11,7 +11,7 @@ This is the original pytorch implementation of Memformer in the following paper:
 
 Memformer is implemented on several public multivariate time series datasets.
 
-- **Weather:** [https://www.bgc-jena.mpg.de/wetter/](https://www.bgc-jena.mpg.de/wetter/)
+- **Weather:** Weather data, published by a weather station in Jena Germany, recording meteorological data throughout one year at a sampling frequency of once per 10 minutes. You can download the data from the link: [https://www.bgc-jena.mpg.de/wetter/](https://www.bgc-jena.mpg.de/wetter/).
 - **Traffic:** [https://github.com/zhouhaoyi/ETDataset](https://pems.dot.ca.gov/)
 - **Electricity:** [https://zenodo.org/record/4656132#.Y3ttxezMIeY](https://archive.ics.uci.edu/dataset/321/electricityloaddiagrams20112014)
 - **ETT:** https://github.com/zhouhaoyi/ETDataset
