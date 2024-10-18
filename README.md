@@ -1,4 +1,4 @@
-# A Memory Guided Transformer for Time Series Forecasting
+# Memformer: A Memory Guided Transformer for Time Series Forecasting
 
 This is the original pytorch implementation of Memformer in the following paper: A Memory Guided Transformer for Time Series Forecasting.
 
