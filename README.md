@@ -32,5 +32,3 @@ sh ./scripts/Memformer/etth2.sh
 
 You can adjust the hyperparameters based on your needs (e.g. historical horizon length **seq_len**, and forecasting horizon length **pred_len**.) 
 
-## Contact
--  If you have any questions or concerns, please contact us: yunyaoc@cs.aau.dk or submit an issue.
