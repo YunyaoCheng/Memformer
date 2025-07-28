@@ -1,0 +1,11 @@
+336_96_Memformer_ETTh2_ftM_sl336_ll48_pl96_dm16_nh4_el1_dl1_df128_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.2234480082988739, mae:0.2976617217063904, rse:0.3894302248954773
+
+336_192_Memformer_ETTh2_ftM_sl336_ll48_pl192_dm16_nh4_el1_dl1_df128_fc1_ebtimeF_dtTrue_Exp_0
+mse:0.27135711908340454, mae:0.3331718444824219, rse:0.4264342486858368
+
+336_336_Memformer_ETTh2_ftM_sl336_ll48_pl336_dm16_nh4_el1_dl1_df128_fc1_ebtimeF_dtTrue_Exp_0
+mse:0.30780306458473206, mae:0.3636177182197571, rse:0.4506083130836487
+
+336_720_Memformer_ETTh2_ftM_sl336_ll48_pl720_dm16_nh4_el1_dl1_df128_fc1_ebtimeF_dtTrue_Exp_0
+mse:0.3790319263935089, mae:0.41654789447784424, rse:0.4935885965824127
